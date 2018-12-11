@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Capture The Beacons]</name>
+    <name>Capture The Beacons</name>
 
-    <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+    <description> When the "Pick a card" Button is red, it is time for red. Same thing for blue. When you click it, your color ball will roll or the amount of seconds. If you touch the beacon, it will turn that color. the person who gets all the beacons the same color wins 
+        
     </description>
 
     <author href="http://scratch.mit.edu/users/french_raj email="bobjobb21@gmail.com">
-        ["french_raj"]
+        "french_raj"
     </author>
 
 </widget>
